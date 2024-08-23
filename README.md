@@ -25,9 +25,10 @@ Optimized images and other assets for faster page loading.
 Ensured cross-browser compatibility for a seamless user experience.
 Repository Structure
 index.html: Main HTML file for the landing page.
-styles.css: CSS file containing the styling rules. Task2 To-do List: This is a simple web-based TODO list application built using HTML, CSS, and JavaScript. The application allows users to create, read, update, and delete tasks from their to-do list. Users can mark tasks as completed, sort them by priority, and search for specific tasks. It uses local storage to store the user's tasks, so they don't have to worry about losing their data. This project is a great starting point for those who want to learn web development or want to build their own task management application.
+styles.css: CSS file containing the styling rules. 
 
-🛠 Built With
+Task2 To-do List: This is a simple web-based TODO list application built using HTML, CSS, and JavaScript. The application allows users to create, read, update, and delete tasks from their to-do list. Users can mark tasks as completed, sort them by priority, and search for specific tasks. It uses local storage to store the user's tasks, so they don't have to worry about losing their data. This project is a great starting point for those who want to learn web development or want to build their own task management application.
+Built With
 HTML
 CSS
 Key Features
